@@ -1,0 +1,56 @@
+TXARTNET
+
+txartnet : Art-Net protocol for Twisted
+=======================================
+  
+  Art-Net is DMX512 over IP.
+
+  Twisted is an event-based framework for internet applications 
+  which works on Python 2.3 through 2.6.  
+
+
+Installing
+==========
+
+  Instructions for installing this software are in INSTALL.
+
+
+Unit Tests
+==========
+
+  See our unit tests run proving that the software is bug free::
+
+   $ trial txartnet
+
+
+Project Informations
+====================
+
+  URL: http://github.com/aalex/txartnet
+  Mailing list: TO DO
+
+
+Examples
+========
+
+  TODO
+
+Requirements
+============
+
+  * Twisted 8.1.0 or later
+
+License
+=======
+This project is free software. It has been released under the terms of the MIT License.
+
+Authors
+=======
+
+  Alexandre Quessy <alexandre@quessy.net>
+
+History
+=======
+
+  2014 - Written by Alexandre Quessy
+

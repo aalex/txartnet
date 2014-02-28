@@ -1,0 +1,8 @@
+*.pyc
+_trial_temp/
+.*.swp
+html/
+*.egg-info
+build
+dist
+*.1
